@@ -1,10 +1,10 @@
 ﻿# tugas-individu-grafkom-a-helsasp
 
-Nama : Helsa Sriprameswari Putri
-NRP : 5025221154
-Kelas : Grafika Komputer A
+Nama : Helsa Sriprameswari Putri <br>
+NRP : 5025221154 <br>
+Kelas : Grafika Komputer A <br>
 
-## Tugas Individu 1 - Mmembuat Program Sederhana dengan Webgl
+## Tugas Individu 1 - Membuat Program Sederhana dengan Webgl
 
 Program sederhana yang saya buat adalah bentuk rumah dengan menggunakan dua bentuk yaitu segitiga sebagai atapnya dan segiempat sebagai body rumah.
 
