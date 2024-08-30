@@ -1,8 +1,8 @@
 ﻿# tugas-individu-grafkom-a-helsasp
 
-## Nama : Helsa Sriprameswari Putri <br>
-## NRP : 5025221154 <br>
-## Kelas : Grafika Komputer A <br>
+### Nama : Helsa Sriprameswari Putri <br>
+### NRP : 5025221154 <br>
+### Kelas : Grafika Komputer A <br>
 
 ## Tugas Individu 1 - Membuat Program Sederhana dengan Webgl
 
