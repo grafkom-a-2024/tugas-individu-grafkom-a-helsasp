@@ -6,7 +6,7 @@ Kelas : Grafika Komputer A <br>
 
 ## Tugas Individu 1 - Membuat Program Sederhana dengan Webgl
 
-Program sederhana yang saya buat adalah bentuk rumah dengan menggunakan dua bentuk yaitu segitiga sebagai atapnya dan segiempat sebagai body rumah.
+Program sederhana yang saya buat adalah sebuah rumah dengan menggunakan dua bentuk yaitu segitiga sebagai atapnya dan segiempat sebagai body rumah dengan latar belakang biru.
 
 Terdapat 3 Source Code yaitu : 
 
@@ -15,6 +15,7 @@ Terdapat 3 Source Code yaitu :
 3. scri[t.js : terdapat fungsi main()  untuk menginisialisasi WebGL dan merender sebuah gambar rumah sederhana pada kanvas HTML. Fungsi ini mulai dengan mendapatkan konteks WebGL dari elemen kanvas. Selanjutnya, dua shader (vertex dan fragment) didefinisikan dalam bentuk sumber kode GLSL, dan fungsi createShader dan createProgram digunakan untuk mengkompilasi dan menghubungkan shader-shader tersebut ke dalam program WebGL. Posisi dan warna vertiks untuk atap (segitiga) dan badan rumah (persegi panjang) ditentukan dalam buffer dan diikat ke atribut shader yang sesuai.
 
 ### Hasil Program 
+![Screenshot 2024-08-30 204742](https://github.com/user-attachments/assets/5a2d81c0-0c0a-471d-b7ad-fe561cce8d93)
 
 
 
