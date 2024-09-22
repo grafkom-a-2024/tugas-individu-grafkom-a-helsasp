@@ -70,7 +70,7 @@ Membuat bentuk bola / sphere 3D yang dirender menggunakan WebGL. Bola dibuat den
 
 ![image](https://github.com/user-attachments/assets/61abaa7a-690a-4252-bcd8-eea4fd1a2d82)
 
-### Demo : https://codepen.io/helsasp/pen/jOgNeEJ
+### Demo : https://codepen.io/helsasp/pen/ExqYdZg
 
 ### 5. Ring
 
