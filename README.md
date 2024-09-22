@@ -68,17 +68,21 @@ https://github.com/user-attachments/assets/650ae02e-4013-456a-85b7-00e4942a900d
 
 Membuat ring 3D dengan menggunakan shader untuk mengatur canvas untuk rendering, menghitung posisi dan warna vertice ring, dan rotasi ring di sekitar sumbu X, Y, dan Z. Warna ring dibuat menyerupai glazed donut.
 
-https://github.com/user-attachments/assets/49e7d38a-bffc-492d-b802-94e5c6b5a01d
+
+https://github.com/user-attachments/assets/d3f1d58f-51ab-4606-856b-41e299e8236f
 
 
 ## Membuat 3D Lathe 
 
 Membuat lathe berbentuk air mancur. Dalam program terdapat beberapa fungsi. Fungsi distance untuk menerapkan jarak pada bidang. Fungsi divisions untuk menentukan seberapa halus permukaan objek 3D yang dihasilkan serta transformasi dari bentuk awal ke bentuk whole hingga bentuk lathe penuh. Serta fungsi start,end,max angle yang memungkinkan untuk rotasi lathe di sudut tertentu. Fungsi capstart dan capend juga ditambahkan untuk mengatur bentuk ujung air mancur. Terdapat fungsi triangle untuk melihat bidang air mancur berupa kerangka/garis. User juga dapat switch mode antara normal,lit,texcoords.
 
+https://github.com/user-attachments/assets/8eb9db0b-6c94-4235-badb-a3c7e21856e2
+
 
 ## Applying Texture 3D
 
  Mengimplementasikan rendering 3D sederhana menggunakan WebGL untuk menggambar kubus dengan tekstur berupa sebuah foto dengan efek rotasi pada sumbu x y z. Program dibuat dengan menginisialisasi canvas dan konteks WebGL. Fungsi ini membuat program shader dari skrip yang ditentukan. Selain itu juga menetapkan lokasi atribut untuk posisi dan tekstur, serta matriks transformasi. Textures diambil dari URL image dan ditambahkan ke buffer setelah berhasil dimuat.
+ 
 
  ## Applying Lighting 3D
 
