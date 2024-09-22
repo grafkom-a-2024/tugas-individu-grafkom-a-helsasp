@@ -47,17 +47,29 @@ https://github.com/user-attachments/assets/ae4e640a-47ab-42c6-b7dc-941a1071b022
 
 Membuat bentuk cone 3D dengan warna rainbow. Cone dibentuk menggunakan vertices sebagai titik-titik yang mendefinisikan posisi kerucut, termasuk pusat dasar dan titik puncak. Cone juga berotasi di sumbu xyz agar lebih menarik.
 
+https://github.com/user-attachments/assets/f9c87fcc-e883-4aea-97eb-cea2bf819d2c
+
+
 ### 3. Cylinder
 
 Membuat bentuk cylinder berwarna merah-kuning yang didefinisikan oleh radius, tinggi, dan jumlah segmen, dan melingkar. Silinder dianimasikan untuk berputar terus-menerus di sekitar sumbunya agar interaktif.
+
+https://github.com/user-attachments/assets/15afa175-3281-487a-8547-cd05dde966f7
 
 ### 4. Ball
 
 Membuat bentuk bola / sphere 3D yang dirender menggunakan WebGL. Bola dibuat dengan radius dan dibagi menjadi grid lintang dan bujur untuk menghasilkan vertex dan warna.Bola berotasi di sumbu X Y Z. Vertex dan fragment shader menangani proses rendering, menerapkan warna gradien pada permukaan bola.
 
+
+https://github.com/user-attachments/assets/650ae02e-4013-456a-85b7-00e4942a900d
+
+
 ### 5. Ring
 
 Membuat ring 3D dengan menggunakan shader untuk mengatur canvas untuk rendering, menghitung posisi dan warna vertice ring, dan rotasi ring di sekitar sumbu X, Y, dan Z. Warna ring dibuat menyerupai glazed donut.
+
+https://github.com/user-attachments/assets/49e7d38a-bffc-492d-b802-94e5c6b5a01d
+
 
 ## Membuat 3D Lathe 
 
