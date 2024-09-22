@@ -41,12 +41,14 @@ Penjelasan kode :
 
 Membuat bentuk cube 3D dengan warna yang berbeda - beda di tiap sisinya. Cube tersebut terdiri dari enam sisi yang diberi warna berbeda: sisi depan ungu, belakang hitam, atas merah, bawah kuning, kiri biru, dan kanan pink. Kubus berotasi secara dinamis di sumbu X, Y, dan Z. Script untuk menginisialisasi konteks WebGL, mendefinisikan geometri dan warna kubus, serta mengatur shader untuk rendering.
 
+![image](https://github.com/user-attachments/assets/b0403857-d16b-4b78-8a08-c0953f01d1ac)
 https://github.com/user-attachments/assets/ae4e640a-47ab-42c6-b7dc-941a1071b022
 
 ### 2. Cone 
 
 Membuat bentuk cone 3D dengan warna rainbow. Cone dibentuk menggunakan vertices sebagai titik-titik yang mendefinisikan posisi kerucut, termasuk pusat dasar dan titik puncak. Cone juga berotasi di sumbu xyz agar lebih menarik.
 
+![image](https://github.com/user-attachments/assets/3574ebc0-e7f7-4e8b-8618-3549c568f3f0)
 https://github.com/user-attachments/assets/f9c87fcc-e883-4aea-97eb-cea2bf819d2c
 
 
@@ -54,13 +56,14 @@ https://github.com/user-attachments/assets/f9c87fcc-e883-4aea-97eb-cea2bf819d2c
 
 Membuat bentuk cylinder berwarna merah-kuning yang didefinisikan oleh radius, tinggi, dan jumlah segmen, dan melingkar. Silinder dianimasikan untuk berputar terus-menerus di sekitar sumbunya agar interaktif.
 
+![image](https://github.com/user-attachments/assets/b5f845b5-8f21-4292-a246-25cafec59827)
 https://github.com/user-attachments/assets/15afa175-3281-487a-8547-cd05dde966f7
 
 ### 4. Ball
 
 Membuat bentuk bola / sphere 3D yang dirender menggunakan WebGL. Bola dibuat dengan radius dan dibagi menjadi grid lintang dan bujur untuk menghasilkan vertex dan warna.Bola berotasi di sumbu X Y Z. Vertex dan fragment shader menangani proses rendering, menerapkan warna gradien pada permukaan bola.
 
-
+![image](https://github.com/user-attachments/assets/61abaa7a-690a-4252-bcd8-eea4fd1a2d82)
 https://github.com/user-attachments/assets/650ae02e-4013-456a-85b7-00e4942a900d
 
 
@@ -68,7 +71,7 @@ https://github.com/user-attachments/assets/650ae02e-4013-456a-85b7-00e4942a900d
 
 Membuat ring 3D dengan menggunakan shader untuk mengatur canvas untuk rendering, menghitung posisi dan warna vertice ring, dan rotasi ring di sekitar sumbu X, Y, dan Z. Warna ring dibuat menyerupai glazed donut.
 
-
+![image](https://github.com/user-attachments/assets/2df16fd9-2626-4040-8d76-f2f93aa623d3)
 https://github.com/user-attachments/assets/d3f1d58f-51ab-4606-856b-41e299e8236f
 
 
