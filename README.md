@@ -41,7 +41,7 @@ Penjelasan kode :
 
 Membuat bentuk cube 3D dengan warna yang berbeda - beda di tiap sisinya. Cube tersebut terdiri dari enam sisi yang diberi warna berbeda: sisi depan ungu, belakang hitam, atas merah, bawah kuning, kiri biru, dan kanan pink. Kubus berotasi secara dinamis di sumbu X, Y, dan Z. Script untuk menginisialisasi konteks WebGL, mendefinisikan geometri dan warna kubus, serta mengatur shader untuk rendering.
 
-![image](https://github.com/user-attachments/assets/b0403857-d16b-4b78-8a08-c0953f01d1ac)
+![image](https://github.com/user-attachments/assets/b0403857-d16b-4b78-8a08-c0953f01d1ac) <br>
 https://github.com/user-attachments/assets/ae4e640a-47ab-42c6-b7dc-941a1071b022
 
 ### 2. Cone 
