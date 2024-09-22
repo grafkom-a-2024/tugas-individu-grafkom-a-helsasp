@@ -44,7 +44,7 @@ Membuat bentuk cube 3D dengan warna yang berbeda - beda di tiap sisinya. Cube te
 
 ![image](https://github.com/user-attachments/assets/b0403857-d16b-4b78-8a08-c0953f01d1ac) <br>
 
-### Demo : https://codepen.io/helsasp/pen/XWvrxWb
+### Demo : https://codepen.io/helsasp/pen/gOVYBLj
 
 ### 2. Cone 
 
