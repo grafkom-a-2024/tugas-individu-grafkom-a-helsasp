@@ -61,7 +61,7 @@ Membuat bentuk cylinder berwarna merah-kuning yang didefinisikan oleh radius, ti
 
 ![image](https://github.com/user-attachments/assets/b5f845b5-8f21-4292-a246-25cafec59827)
 
-### Demo : 
+### Demo : https://codepen.io/helsasp/pen/jOgNeEJ
 
 ### 4. Ball
 
@@ -76,7 +76,6 @@ Membuat bentuk bola / sphere 3D yang dirender menggunakan WebGL. Bola dibuat den
 
 Membuat ring 3D dengan menggunakan shader untuk mengatur canvas untuk rendering, menghitung posisi dan warna vertice ring, dan rotasi ring di sekitar sumbu X, Y, dan Z. Warna ring dibuat menyerupai glazed donut.
 
-https://github.com/user-attachments/assets/d3f1d58f-51ab-4606-856b-41e299e8236f
 ![image](https://github.com/user-attachments/assets/2df16fd9-2626-4040-8d76-f2f93aa623d3)
 
 ### Demo : https://codepen.io/helsasp/pen/ZEgzqGE
